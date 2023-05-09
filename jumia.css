@@ -1,0 +1,53 @@
+*{
+    background-color: rgb(246, 246, 246) ;
+    margin: auto;
+}
+
+#home{
+    height: 60P;
+    display: flex;
+    margin: 15px;
+    background-color:rgb(246, 246, 246) ;
+    /* margin-left: 50px; */
+}
+#home .items{
+    background-color: white;
+}
+#home .firm1{
+    /* margin-right:250px; */
+    margin-top: 50px;
+}
+#home .firm2{
+    width: 20px;
+    height: 70px;
+    /* margin-left: 100px; */
+}
+#jumiapayment{
+    height: 60px;
+    background-color: rgb(246, 246, 246);
+    display: flex;
+}
+#order{
+    height: 40px;
+    background-color:  #f8991e;;
+}
+#searchbar{
+    display: flex;
+    height: 50px;
+    background-color: white; 
+}
+#jumiapayment .options ul{
+    list-style-type: none;
+}
+#home .items ul{
+    list-style-type: none;
+}
+#searchbar #profile ul{
+    list-style: none;
+}
+#profile{
+    display: flex;
+}
+.options{
+    display: flex;
+}
